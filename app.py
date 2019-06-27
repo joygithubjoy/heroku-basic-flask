@@ -82,12 +82,12 @@ def reply_menu(reply_token):
       },
       {
         "thumbnailImageUrl": "https://d3n8a8pro7vhmx.cloudfront.net/edonsw/pages/995/attachments/original/1386210667/green_energy_320.jpg",
-        "text": "energy",
+        "text": "energy!!!!!!!$$$$$$",
         "actions": [
           {
             "type": "message",
             "label": "energy",
-            "text": "energy!!!!!!!$$$$$$"
+            "text": "energy"
           }
         ]
       }
