@@ -71,7 +71,7 @@ def reply_menu(reply_token):
     "columns": [
       {
         "thumbnailImageUrl": "https://sv1.picz.in.th/images/2019/06/27/1CCpqZ.th.jpg",
-        "text": "weather!!!!!!!",
+        "text": "weather!!!!!!!$$$$$$$",
         "actions": [
           {
             "type": "message",
@@ -87,7 +87,7 @@ def reply_menu(reply_token):
           {
             "type": "message",
             "label": "energy",
-            "text": "energy"
+            "text": "energy!!!!!!!$$$$$$"
           }
         ]
       }
